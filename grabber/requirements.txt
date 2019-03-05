@@ -1,0 +1,17 @@
+Django==2.1.7
+Pillow==5.4.1
+django-environ==0.4.3
+
+# Celery
+celery==4.0.2
+django-celery-beat==1.0.1
+redis==2.10.5
+kombu==4.0.2
+
+beautifulsoup4==4.7.1
+django-simple-history==2.7.0
+lxml==4.3.2
+requests==2.21.0
+selenium==3.141.0
+
+pyvirtualdisplay
